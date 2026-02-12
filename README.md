@@ -14,7 +14,7 @@ The main objectives were to:
 
 ---
 
-## 🔎 Data Exploration
+## Data Exploration
 
 The dataset contains **393 observations** of website traffic.
 
